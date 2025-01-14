@@ -23,7 +23,7 @@ const Navbar = () => {
           <a href="#contact">Contact</a>
         </li> */}
         <li>
-          <a href="https://www.linkedin.com/in/xuliulexie/" target="_blank">
+          <a href="https://www.linkedin.com/in/xuliulx" target="_blank">
             <FontAwesomeIcon
               icon={faLinkedin}
               aria-hidden="true"
