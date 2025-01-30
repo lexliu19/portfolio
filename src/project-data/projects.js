@@ -9,7 +9,7 @@ const projects = [
     id: 1,
     projectType: 'FULLSTACK WEB APPLICATION',
     title: 'Job Tracker',
-    projectURL: 'https://github.com/lexliu19/jobs-tracker',
+    projectURL: 'http://job-tracker.us-east-1.elasticbeanstalk.com/',
     description:
       'JobTracker is a full-stack single page application (SPA) that facilitates efficient job application management. It offers a Dashboard for creating, editing, looking up, and deleting job applications. On the backend, I implement a RESTful API using Node.js and Express.js, enabling smooth data handling through routes and controllers. For the frontend, I utilize modern React to render pages and manage data states, ensuring an interactive and seamless user experience. With these technologies, JobTracker provides a comprehensive solution for managing job applications.',
     technologies: ['React.js', 'Node.js', 'Express.js', 'MongoDB', 'Mongoose'],
