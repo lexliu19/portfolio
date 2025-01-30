@@ -11,10 +11,19 @@ const projects = [
     title: 'Job Tracker',
     projectURL: 'http://job-tracker.us-east-1.elasticbeanstalk.com/',
     description:
-      'JobTracker is a full-stack single page application (SPA) that facilitates efficient job application management. It offers a Dashboard for creating, editing, looking up, and deleting job applications. On the backend, I implement a RESTful API using Node.js and Express.js, enabling smooth data handling through routes and controllers. For the frontend, I utilize modern React to render pages and manage data states, ensuring an interactive and seamless user experience. For deployment and scalability, JobTracker is hosted on AWS Elastic Beanstalk, which manages the application environment and scaling automatically. The application runs on EC2 instances, providing a flexible and reliable compute infrastructure to support smooth performance. With these technologies, JobTracker provides a comprehensive solution for managing job applications.',
-    technologies: ['React.js', 'Node.js', 'Express.js', 'MongoDB', 'Mongoose'],
+      'JobTracker is a full-stack single-page application (SPA) designed to streamline job application management. It features a Dashboard for efficiently creating, editing, searching, and deleting job applications, offering users an intuitive and organized experience. On the backend, I developed a RESTful API using Node.js and Express.js, implementing structured routes and controllers to ensure efficient data handling. The frontend is built with modern React, leveraging state management for a responsive, dynamic, and seamless user experience. For deployment and scalability, JobTracker is hosted on AWS Elastic Beanstalk, which automates environment management and scaling. The application runs on EC2 instances, delivering a flexible, reliable, and high-performance compute infrastructure. By integrating these technologies, JobTracker offers a robust and scalable solution for efficiently managing job applications.',
+    technologies: [
+      'React.js',
+      'Node.js',
+      'Express.js',
+      'MongoDB',
+      'Mongoose',
+      'AWS Elastic Beanstalk',
+      'AWS EC2',
+    ],
     image: jobIcon,
   },
+
   {
     id: 2,
     projectType: 'CHATGPT APPLICATION',
