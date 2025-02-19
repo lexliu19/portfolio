@@ -13,10 +13,18 @@ const Intro = () => {
         </h2>
         <p>Hey there 👋!</p>
         <p>
-          I&rsquo;m Lex—a software engineer who loves turning ideas into reality with code. Whether it&rsquo;s designing a sleek front-end or optimizing backend logic, I enjoy every step of the development process. I&rsquo;m passionate about building intuitive, scalable applications and exploring AI-driven solutions that enhance user experiences.
+          I&rsquo;m Lex—a software engineer who loves turning ideas into reality
+          with code. Whether it&rsquo;s designing a sleek front-end or
+          optimizing backend logic, I enjoy every step of the development
+          process. I&rsquo;m passionate about building intuitive, scalable
+          applications and exploring AI-driven solutions that enhance user
+          experiences.
         </p>
         <p>
-          When I’m not coding, you’ll probably find me tinkering with new tech 💻, or bouldering 🧗. I love challenges—both in software development and on the climbing wall. Let’s build something cool! 🚀
+          When I&rsquo;m not coding, you&rsquo;ll probably find me tinkering
+          with new tech 💻, or bouldering 🧗. I love challenges—both in software
+          development and on the climbing wall. Let&rsquo;s build something
+          cool! 🚀
         </p>
       </div>
     </section>
