@@ -13,15 +13,10 @@ const Intro = () => {
         </h2>
         <p>Hey there 👋!</p>
         <p>
-          I&rsquo;m Lex, a passionate Software Developer with a Master&rsquo;s
-          degree in Computer Software Engineering from Northeastern University.
+          I&rsquo;m Lex—a software engineer who loves turning ideas into reality with code. Whether it&rsquo;s designing a sleek front-end or optimizing backend logic, I enjoy every step of the development process. I&rsquo;m passionate about building intuitive, scalable applications and exploring AI-driven solutions that enhance user experiences.
         </p>
         <p>
-          I specialize in building intuitive front-end interfaces and scalable
-          back-end systems. I thrive in collaborative environments and am always
-          eager to learn. Currently seeking opportunities as a Full-time
-          software Engineer to bring innovative ideas to life. Let&rsquo;s build
-          something amazing together! 🚀
+          When I’m not coding, you’ll probably find me tinkering with new tech 💻, or bouldering 🧗. I love challenges—both in software development and on the climbing wall. Let’s build something cool! 🚀
         </p>
       </div>
     </section>
